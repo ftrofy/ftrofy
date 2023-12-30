@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### Programming languages:
+- C++ 17
+- Lua
+- Python
+
+### Tools:
+- Cmake, make
+- Blender
+- Godot
+- HTML, CSS
+
+### Projects:
+- Working..
+
 <!--
 **ftrofy/ftrofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
