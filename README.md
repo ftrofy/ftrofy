@@ -8,7 +8,6 @@
 ### Tools:
 - Cmake, make
 - Blender
-- Godot
 - HTML, CSS
 
 ### Projects:
